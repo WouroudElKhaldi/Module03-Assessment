@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "wouroud",
+    "password": "wouroud2004",
+    "database": "wourouddb",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "wouroud",
+    "password": "wouroud2004",
+    "database": "wourouddb",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "wouroud",
+    "password": "wouroud2004",
+    "database": "wourouddb",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  }
+}
